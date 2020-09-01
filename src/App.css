@@ -11,3 +11,10 @@
   width: 100%;
   z-index: -1;
 }
+.level-10{
+z-index: 1000;
+position: relative;
+}
+.logo{
+  background: linear-gradient(89deg, #02aab0 0%, #6213e6 100%)
+}
